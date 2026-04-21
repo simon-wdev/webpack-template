@@ -1,1 +1,3 @@
-# webpack-template
+# Webpack Template
+
+Simple webpack template for projects.
