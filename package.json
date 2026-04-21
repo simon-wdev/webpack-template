@@ -1,0 +1,30 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "Simple webpack template for projects.",
+  "main": "index.js",
+  "scripts": {
+        "build": "webpack",
+        "dev": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon-wdev/webpack-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/simon-wdev/webpack-template/issues"
+  },
+  "homepage": "https://github.com/simon-wdev/webpack-template#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.4",
+    "html-webpack-plugin": "^5.6.7",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.106.2",
+    "webpack-cli": "^7.0.2",
+    "webpack-dev-server": "^5.2.3"
+  }
+}
